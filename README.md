@@ -1,2 +1,2 @@
 # Drift
-OpenSUSE but with quality of life features.
+Quality of life scripts for OpenSUSE.
